@@ -30,7 +30,9 @@ $ python app.py
 <img width="634" height="875" alt="{24E03FC4-1444-4642-BD7D-63A06A42AA7E}" src="https://github.com/user-attachments/assets/d1407e7f-bf6a-47b7-9558-466333449ec2" />
 <img width="1391" height="562" alt="{74FC478C-E644-42CE-8EBD-8B3F10D44DA5}" src="https://github.com/user-attachments/assets/3254cbbf-672d-43c9-a875-8b406b639bae" />
 
+# Contributors
 
+- [@raovivek18](https://github.com/raovivek18)
 
 
 ## Designed & Developed by
